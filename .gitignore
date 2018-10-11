@@ -1,3 +1,14 @@
 /build_local/
+/build_staging/
+/build_production/
 /node_modules/
+/source/assets/build/css/
+/source/assets/build/fonts/
+/source/assets/build/js/
+/source/assets/build/mix-manifest.json
 /vendor/
+/.idea/
+/.vscode/
+/_tmp/
+npm-debug.log
+yarn-error.log
